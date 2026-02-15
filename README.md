@@ -17,7 +17,7 @@ This GitHub profile is where I share my progress on my learning journey, so feel
 
 ---
 
-## Frontend Tech Stack
+## Frontend Tech Stack (so far):
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
