@@ -1,46 +1,27 @@
-<h1 align="center">Hey 👋🏻, I'm Nico</h1>
-<h3 align="center">Frontend Development Student</h3>
+<h2 align="center">Hey 👋🏻, I'm Nico and I'm currently learning Frontend Development</h2>
 
 ---
 
-<p align="center">
-  I'm currently focused on learning <strong>Frontend Development</strong> and building modern, responsive web applications.<br/>
-  Right now, I'm completing a <strong>12-month full-time Fullstack Bootcamp</strong>, improving my skills step by step through hands-on projects.
-</p>
-
-<p align="center">
-  This GitHub profile documents my progress and showcases the projects I work on throughout my journey.<br/>
-  Feel free to follow along as I continue to grow as a developer.
+<p align="left">
+  I’m always curious and motivated to learn something new every day.  
+  Right now, I’m taking part in a <strong>12-month full-time Fullstack Bootcamp</strong> to build a strong foundation in web development.
+  <br><br>
+  This GitHub profile is where I document my progress and share the projects I create along the way.  
+  Feel free to check back anytime — I’m happy to share this journey.
 </p>
 
 ---
 
-## Tech Stack
+<p align="left"><strong>Frontend Tech Stack (so far):</strong></p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula&hide_border=false" height="160" alt="GitHub streak stats" />
-</div>
-
----
-
-## Contribution Snake
-
-<img src="https://raw.githubusercontent.com/nico-leitz/nico-leitz/output/snake.svg" alt="Contribution snake animation" />
-
----
-
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+<img src="https://raw.githubusercontent.com/nico-leitz/nico-leitz/output/snake.svg" alt="Snake animation" />
