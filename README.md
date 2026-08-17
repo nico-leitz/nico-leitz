@@ -36,9 +36,9 @@ My goal: engineering reliable applications that streamline complex workflows and
 
 | Project | Brief Description | Stack |
 | :--- | :--- | :--- |
+| **Join** | Fullstack Kanban board for agile task management featuring drag-and-drop organization, robust state management (Signals/RxJS), and Supabase integration (Auth & PostgreSQL). | Angular, TypeScript, Supabase |
 | **Portfolio Website** | Personal portfolio website featuring clean Angular architecture, modular SCSS, and fully responsive design. | Angular, TypeScript, SCSS |
 | **El Pollo Loco** | Object-oriented jump-and-run game utilizing Canvas logic and a custom-built game engine. | JavaScript, HTML, CSS |
-| **Pokédex** | API-driven frontend application featuring search functionality, modal dialogs, data caching, and detailed views. | JavaScript, REST API |
 
 ---
 
