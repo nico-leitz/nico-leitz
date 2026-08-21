@@ -1,25 +1,14 @@
 # Hi, I'm Nico Leiteritz
+**Fullstack Web Developer | Clean Code Enthusiast**
 
-### Fullstack Web Developer | Clean Code Enthusiast
+I develop scalable web applications with a strong focus on clean architecture, maintainability, and exceptional user experience. My goal is to engineer reliable products that streamline complex workflows and provide genuine value to both clients and end-users.
 
-I develop scalable web applications with a strong focus on clean architecture, maintainability, and exceptional user experience.<br>
-My expertise spans across **frontend, backend, APIs, and databases**, enabling me to deliver robust end-to-end solutions.
+### About Me
+From 2022 to 2025, I completed my apprenticeship as a software developer (Fachinformatiker für Anwendungsentwicklung). To further expand my expertise and stay up-to-date with industry standards, I am currently completing a 12-month advanced training program to become a Fullstack Developer at the Developer Akademie.
 
-I value code that not only functions flawlessly but ensures long-term maintainability and seamless collaboration within developer teams.
-
----
-
-## About Me
-
-From 2022 to 2025, I completed my apprenticeship as a software developer (Fachinformatiker für Anwendungsentwicklung). To further expand my expertise and stay up-to-date with industry standards, I am currently completing a 12-month advanced training program to become a Fullstack Developer at the Developer Akademie.<br>
-I thrive in projects where clean interfaces, efficient data flows, and automated processes come together to create high-quality digital products.
-
-Currently, I am deepening my skills in modern web technologies like Angular, TypeScript, Vue.js, Python, and DevOps workflows.<br>
-My goal: engineering reliable applications that streamline complex workflows and provide genuine value to both clients and end-users.
+I thrive in projects where clean interfaces, efficient data flows, and automated processes come together. I prioritize highly cohesive components, single-responsibility functions, and semantic, traceable commits to ensure seamless collaboration within developer teams.
 
 ---
-
-## Tech Stack
 
 ### Core Tech Stack
 
@@ -44,7 +33,7 @@ My goal: engineering reliable applications that streamline complex workflows and
 
 ---
 
-## Selected Projects
+### Selected Projects
 
 | Project | Brief Description | Stack |
 | :--- | :--- | :--- |
@@ -54,34 +43,11 @@ My goal: engineering reliable applications that streamline complex workflows and
 
 ---
 
-## Development Philosophy
+### Development Philosophy
 
-```text
-Scalability over shortcuts.
-Clarity over complexity.
-Reliability over gimmicks.
-And user experience is never an afterthought.
-```
+*   **Scalability over shortcuts.**
+*   **Clarity over complexity.**
+*   **Reliability over gimmicks.**
+*   **User experience is never an afterthought.**
 
-I build applications using highly cohesive components, single-responsibility functions, and semantic, traceable commits. I prioritize scalable architectures that remain stable and maintainable, ensuring smooth integrations as new features are continuously added.
-
----
-
-## GitHub Focus
-
-| Area | Focus |
-| :--- | :--- |
-| **Frontend** | Angular, TypeScript, JavaScript, Vue.js, SCSS, Tailwind CSS |
-| **Backend & Ops** | Python, Django, PHP, SQL, REST APIs, Docker |
-| **Quality** | Clean Code Principles, Accessibility (a11y), Responsive Design |
-| **Learning** | Fullstack Architecture, DevOps Workflows, CI/CD Pipelines |
-
----
-
-## What I like to build
-
-- Scalable web applications with clean architecture and intuitive UX
-- Robust backend logic, APIs, and secure database structures
-- Automated workflows that increase efficiency and reduce manual overhead
-- Solutions that seamlessly integrate into existing agency or client environments
-- Digital products that deliver measurable value and high performance
+I love building robust backend logic, APIs, and secure database structures that seamlessly integrate into existing environments. Whether it is automated workflows that reduce manual overhead or scalable architectures that remain stable as new features are added, my focus is always on high performance and measurable value.
