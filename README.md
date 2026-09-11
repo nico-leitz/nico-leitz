@@ -28,26 +28,46 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 ### Core Tech Stack
 
 #### Frontend
-![Angular](https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-B7178C?style=flat-square&logo=reactivex&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<p style="line-height: 2;">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 #### Backend & Database
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+<p style="line-height: 2;">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Django_REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 #### DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment_(Heroku)-430098?style=flat-square&logo=heroku&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat-square) ![DevOps & Automation](https://img.shields.io/badge/DevOps_&_Automation-000000?style=flat-square)
+<p style="line-height: 2;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Cloud_Deployment_(Heroku)-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/DevOps_%26_Automation-%23000000.svg?style=for-the-badge" />
+</p>
 
 #### Tools & Version Control
-![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white)
+<p style="line-height: 2;">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 #### Areas of Interest
-![AI Workflows](https://img.shields.io/badge/AI_WORKFLOWS-0F172A?style=flat-square&logoColor=white) ![Automation](https://img.shields.io/badge/AUTOMATION-00D29F?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIS-005C8A?style=flat-square&logoColor=white) ![Databases](https://img.shields.io/badge/DATABASES-4A86A8?style=flat-square&logoColor=white)
-
----
-
-### GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=nico-leitz&show_icons=true&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF&icon_color=E5E7EB" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-leitz&layout=compact&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF" alt="Top Languages" />
+<p style="line-height: 2;">
+  <img src="https://img.shields.io/badge/AI_WORKFLOWS-0F172A?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/AUTOMATION-00D29F?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/REST_APIS-005C8A?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/DATABASES-4A86A8?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
@@ -55,6 +75,24 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 
 I'm always open to discussing system architecture, exciting backend challenges, or new opportunities. 
 
-* **LinkedIn:** [Nico Leiteritz](https://www.linkedin.com/in/nico-leiteritz-b300563b5/)
-* **Email:** [kontakt@nico-leiteritz.de](mailto:kontakt@nico-leiteritz.de)
-* **Discord:** nico_leitz
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/nico-leiteritz-b300563b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:kontakt@nico-leiteritz.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/nico_leitz">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+<!-- 
+---
+
+### Broadening My Horizons: Why I'm Learning Rust
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+
+Learning Rust isn't just about mastering a new language; it's a deliberate step to deepen my understanding of system architecture. By diving into concepts like strict memory management, thread safety, and low-level performance, I am gaining insights that directly elevate the quality, reliability, and efficiency of the code I write in high-level languages like Python and TypeScript.
+-->
