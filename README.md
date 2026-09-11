@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Animierter Header -->
+  <!-- Reparierter animierter Header (URL-encoded) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=E5E7EB&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nico+Leiteritz;I+don't+just+write+code+—+I+build+systems.;29-year-old+Fullstack+Developer;Based+near+Munich,+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=E5E7EB&center=true&vCenter=true&width=800&lines=Hi,+I%27m+Nico+Leiteritz;I+don%27t+just+write+code+-+I+build+systems.;29-year-old+Fullstack+Developer;Based+near+Munich,+Germany" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,8 +40,12 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nico-leitz&show_icons=true&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF&icon_color=E5E7EB" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-leitz&layout=compact&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF" width="48%" />
+  <a href="https://github.com/nico-leitz">
+    <img src="https://github-readme-stats.vercel.app/api?username=nico-leitz&show_icons=true&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF&icon_color=E5E7EB" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/nico-leitz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-leitz&layout=compact&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF" alt="Top Languages" />
+  </a>
 </div>
 
 ---
