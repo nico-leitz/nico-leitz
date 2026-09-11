@@ -28,7 +28,7 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 ### Core Tech Stack
 
 #### Frontend
-<p style="line-height: 2;">
+<p>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />&nbsp;
@@ -37,36 +37,36 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 </p>
 
 #### Backend & Database
-<p style="line-height: 2;">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
+<p>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Django_REST-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 #### DevOps & Cloud
-<p style="line-height: 2;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<p>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Cloud_Deployment_(Heroku)-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/DevOps_%26_Automation-%23000000.svg?style=for-the-badge" />
 </p>
 
 #### Tools & Version Control
-<p style="line-height: 2;">
+<p>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 #### Areas of Interest
-<p style="line-height: 2;">
-  <img src="https://img.shields.io/badge/AI_WORKFLOWS-0F172A?style=for-the-badge&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AUTOMATION-00D29F?style=for-the-badge&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/REST_APIS-005C8A?style=for-the-badge&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/DATABASES-4A86A8?style=for-the-badge&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/AI_Workflows-%230F172A?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Automation-%2300D29F?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/REST_APIS-%23005C8A?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Databases-%23334155?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -78,10 +78,10 @@ I'm always open to discussing system architecture, exciting backend challenges, 
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/nico-leiteritz-b300563b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:kontakt@nico-leiteritz.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://discord.com/users/nico_leitz">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
