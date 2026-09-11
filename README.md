@@ -13,7 +13,7 @@ For me, coding is much more than just a profession—it's a genuine passion and 
 
 From 2022 to 2025, I successfully completed my apprenticeship as an IT Specialist for Application Development (*Fachinformatiker für Anwendungsentwicklung*). During this time, I built a strong engineering foundation, focusing heavily on the frontend with React and JavaScript, alongside backend development using PHP and various CMS platforms. 
 
-To build upon this foundation and apply my core knowledge to a more modern, highly scalable tech stack, I made the proactive decision to immediately follow up with a comprehensive 12-month Fullstack advanced training at the **Developer Akademie**. This strategic step allowed me to seamlessly transfer my existing problem-solving skills into more complex backend architectures, master modern tools, and truly understand the "big picture" of bridging interface and infrastructure.
+To build upon this foundation and apply my core knowledge to a more modern, highly scalable tech stack, I made the proactive decision to immediately follow up with a comprehensive 12-month Fullstack advanced training at the **Developer Akademie**. This strategic step allowed me to seamlessly transfer my existing problem-solving skills into more complex backend architectures, master modern tools, collaborate effectively in cross-functional developer teams to deliver real-world projects, and truly understand the "big picture" of bridging interface and infrastructure.
 
 ---
 
@@ -25,7 +25,7 @@ To build upon this foundation and apply my core knowledge to a more modern, high
 
 ---
 
-### Core Tech Stack
+### Technologies I've Built Software With (Regularly used in production & confident stack)
 
 #### Frontend
 <p>
