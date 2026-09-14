@@ -83,9 +83,6 @@ I'm always open to discussing system architecture, exciting backend challenges, 
   <a href="mailto:kontakt@nico-leiteritz.de">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://discord.com/users/nico_leitz">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 <!-- 
