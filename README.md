@@ -28,21 +28,21 @@ I view software development as system engineering rather than just writing code.
 
 ### My Core Technologies & Tools
 
-#### Core Backend (.NET Ecosystem)
+#### Core Backend (Python Ecosystem)
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
+  <img src="https://img.shields.io/badge/Django_Restframework-%23E53935.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Restframework" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+#### Additional Backend (.NET Ecosystem)
 <p>
   <img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />&nbsp;
   <img src="https://img.shields.io/badge/.NET-%235B35D9.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />&nbsp;
   <img src="https://img.shields.io/badge/ASP.NET_Core-%236540DE.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />&nbsp;
   <img src="https://img.shields.io/badge/Entity_Framework_Core-%23704AE3.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />&nbsp;
   <img src="https://img.shields.io/badge/xUnit-%237A55E8.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
-</p>
-
-#### Additional Backend (Python Ecosystem)
-<p>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />&nbsp;
-  <img src="https://img.shields.io/badge/Django_Restframework-%23E53935.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Restframework" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
 #### Frontend & UI
